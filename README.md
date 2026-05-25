@@ -132,8 +132,9 @@ http://breatheesg-sandy.vercel.app/
 
 Backend URL:
 
+https://breathe-esg-backend-lxcp.onrender.com
 
-gitRepository:
+GitRepository:
 
 https://github.com/Guntamadugupavankumar/Breathe-ESG
 
@@ -145,4 +146,4 @@ Password: pandu
 
 ## Author
 
-Pavan Kumar
+ Guntamadugu Pavan Kumar
