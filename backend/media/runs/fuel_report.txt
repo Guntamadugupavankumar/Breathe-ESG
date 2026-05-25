@@ -1,0 +1,6 @@
+Record_ID,Fuel_Type,Department,Liters,Cost_INR,Vendor,Date
+F001,Diesel,Operations,500,30000,IndianOil,2026-05-01
+F002,Petrol,Logistics,250,15000,BharatPetroleum,2026-05-02
+F003,Diesel,Manufacturing,900,55000,Shell,2026-05-03
+F004,Petrol,Operations,450,27000,HP,2026-05-04
+F005,Diesel,Transport,700,42000,IndianOil,2026-05-05
