@@ -41,7 +41,7 @@ Supported data sources:
 
 ### Deployment
 - Frontend: Vercel
-- Backend: Railway
+- Backend: Render
 
 
 ## Source Handling
