@@ -138,6 +138,20 @@ GitRepository:
 
 https://github.com/Guntamadugupavankumar/Breathe-ESG
 
+backend configuration and setup
+link: http://127.0.0.1:8000/
+cd backend
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+
+frontend configuration and setup
+link: http://localhost:5173/
+cd frontend
+npm install
+npm run dev
+
 ## Demo Credentials
 
 Username: pandu
