@@ -15,7 +15,7 @@ export default function App() {
     e.preventDefault()
     setErr('')
     try {
-      const { data } = await api.post('/token/', creds)
+      const { data } = await api.post('/api/token/', creds)
       localStorage.setItem('access', data.access)
       localStorage.setItem('refresh', data.refresh)
       setAuthed(true)
