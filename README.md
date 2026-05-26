@@ -127,7 +127,7 @@ BreatheESG/
 ## Deployment
 
 Frontend URL
-https://breatheesg-sandy.vercel.app/
+https://breatheesgpavan.vercel.app/
 
 Backend URL:
 
