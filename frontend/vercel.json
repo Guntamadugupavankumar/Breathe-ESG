@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/(.*)",
-      "destination": "https://breathe-esg-backend-lxcp.onrender.com/api/$1"
+      "source": "/api/:path*",
+      "destination": "https://breathe-esg-backend-lxcp.onrender.com/api/:path*"
     }
   ]
 }
