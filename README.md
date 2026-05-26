@@ -154,9 +154,9 @@ npm run dev,
 
 ## Demo Credentials
 
-Username: pavan123
+Username: pandu123
 
-Password: pavan123
+Password: pandu123
 
 ## Author
 
